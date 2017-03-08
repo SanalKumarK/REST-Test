@@ -1,0 +1,5 @@
+services\catalogue\ProductCatalogueService.class
+services\model\Product.class
+services\pricing\ProductPricing.class
+services\catalogue\ProductCatalogueAPI.class
+services\catalogue\ProductCatalogue.class
